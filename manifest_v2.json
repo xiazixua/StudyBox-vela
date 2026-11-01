@@ -2,13 +2,15 @@
   "item": {
     "id": "com.velam3.demo",
     "restype": "quick_app",
-    "name": "学习盒子 (StudyBox)",
+    "name": "学习盒子",
     "description": "完全免费!有今日已过,单词背诵,每日一句,记事,待办",
     "preview": [
-      "media/290967.png"
+      "media/290882.jpg",
+      "media/290878.jpg",
+      "media/290884.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/290964.png",
+    "cover": "media/291032.png",
     "author": [
       {
         "name": "sun",
@@ -20,23 +22,23 @@
   "downloads": {
     "xmws4xring": {
       "version": "1.5.1",
-      "file_name": "downloads/StudyBox-v1.5.1-round.rpk",
-      "versionCode": 8
+      "file_name": "downloads/StudyBox-v1.5.1-release-round.rpk",
+      "versionCode": 10
     },
     "xmws441": {
       "version": "1.5.1",
-      "file_name": "downloads/StudyBox-v1.5.1-round.rpk",
-      "versionCode": 8
+      "file_name": "downloads/StudyBox-v1.5.1-release-round.rpk",
+      "versionCode": 10
     },
     "xmws4": {
       "version": "1.5.1",
-      "file_name": "downloads/StudyBox-v1.5.1-round.rpk",
-      "versionCode": 8
+      "file_name": "downloads/StudyBox-v1.5.1-release-round.rpk",
+      "versionCode": 10
     },
     "xmws5": {
       "version": "1.5.1",
-      "file_name": "downloads/StudyBox-v1.5.1-round.rpk",
-      "versionCode": 8
+      "file_name": "downloads/StudyBox-v1.5.1-release-round.rpk",
+      "versionCode": 10
     }
   },
   "ext": {}
